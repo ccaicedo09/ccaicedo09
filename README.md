@@ -1,7 +1,7 @@
 # Hey there, I'm Carlos Castro! 👋
 
 ## 🌟 What I do
-I'm a Colombian Software Engineering student at USCO. I'm aiming to be a fullstack developer, at the time I have experience in backend development and data management using Python, Pandas, Django and PostgreSQL. I'm currently learning JavaScript in order to reach skills for frontend development too. I'm a lover of undertaking new experiences! 🫡
+I'm a Colombian Software Engineering student at USCO. I'm a junior backend developer with a passion for creating efficient and scalable web applications. I enjoy solving complex problems and learning new technologies. I'm a lover of undertaking new experiences too! 🫡
 
 <div align="center">
   <h3>📩 Reach me!</h3>
@@ -29,7 +29,7 @@ class Carlitos():
 
     def currently(self):
         return {
-            'studying': 'JavaScript',
+            'studying': 'Java, Spring Boot',
             'looking_for': 'Projects to collaborate on!'
         }
 ```
