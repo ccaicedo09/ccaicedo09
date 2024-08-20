@@ -25,11 +25,11 @@ class Carlitos():
         return 'Neiva - Colombia'
 
     def skills(self):
-        return ['HTML', 'CSS', 'Python', 'Django', 'Pandas', 'PostgreSQL', 'Git & GitHub']
+        return ['HTML', 'CSS', 'Bootstrap', 'Python', 'Java' 'Django', 'Pandas', 'PostgreSQL', 'Git & GitHub']
 
     def currently(self):
         return {
-            'studying': 'Java, Spring Boot',
+            'studying': ['JavaScript', 'Spring boot', 'Spring Framework'],
             'looking_for': 'Projects to collaborate on!'
         }
 ```
